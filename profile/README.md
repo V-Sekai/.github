@@ -1,8 +1,3 @@
-## About V-Sekai
-
-We believe social VR should be a truly community-driven experience. For this to be realised, we believe the entire software stack should be available, moddable, and tweakable from the source up, in order to ensure V-Sekai develops into the best platform it can possibly be.
-
-
 ### Who are we?
 
 We are a small group of developers and VR enthusiasts who felt there was a need for a project like this. Many of us already love the existing offerings out there, but wanted our own self-sustainable platform which could survive on the backs of its community, rather than being tied to the life of a company and a small group of individuals with exclusive control over its direction.
@@ -16,3 +11,8 @@ We have built a framework for the Godot game engine which makes the distribution
     Our own custom networking stack
     A security-focused sandboxed scripting environment backed by WASM
     Customisable servers with their own individual game rules
+
+## About V-Sekai
+
+We believe social VR should be a truly community-driven experience. For this to be realised, we believe the entire software stack should be available, moddable, and tweakable from the source up.
+
