@@ -1,8 +1,5 @@
 ## About V-Sekai
 
-V-Sekai is the first fully-open source social VR platform running on the Godot Engine. It is designed as a living virtual space where you can meet people and interact in a virtual space, while leveraging the fast-growing Godot game engine to let users create any content they want and have it be immediately accessible and shareable to a growing community.
-Why V-Sekai?
-
 We believe social VR should be a truly community-driven experience. For this to be realised, we believe the entire software stack should be available, moddable, and tweakable from the source up, in order to ensure V-Sekai develops into the best platform it can possibly be.
 Who are we?
 
