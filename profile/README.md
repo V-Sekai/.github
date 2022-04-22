@@ -1,0 +1,1 @@
+Official GitHub account for the V-Sekai development community. Our projects focus on providing social VR functionality for the open source Godot Engine.
