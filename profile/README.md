@@ -1,6 +1,6 @@
 ### What are we making?
 
-We have built a framework for the Godot game engine which makes the distribution of custom avatars and worlds in a networked environment possible. Our current plan is to offer hosting via our own web server, as well as individual server hosting and social functions, and in the future plan to broaden what we can offer. We are tackling many of the technical challenges required to make such a project possible on the Godot game engine, including:
+We use the Godot game engine which makes the distribution of custom avatars and worlds in a networked environment possible. We plan to offer hosting via our own web server, as well as individual server hosting and social functions, and in the future plan to broaden what we can offer. We are tackling many of the technical challenges required to make such a project possible on the Godot game engine, including:
 
     - Spatialised audio and VOIP support
     - Native VRM support
