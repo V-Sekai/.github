@@ -1,5 +1,3 @@
-### What are we making?
-
 We use the Godot game engine to distribute custom avatars and worlds in a networked environment. We plan to offer hosting via our own web server, as well as individual server hosting and social functions. We challenge many of the technical problems needed to make this project possible on the Godot game engine, including:
 
     - Spatialised audio and VOIP support
