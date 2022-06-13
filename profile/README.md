@@ -1,7 +1,9 @@
 **[Interested in V-Sekai or #GodotVR development? Join the V-Sekai discord server!](https://discord.gg/7BQDHesck8)**
 
-We distribute custom avatars and worlds in a networked environment on the Godot game engine. We offer hosting via our own web server, as well as individual server hosting and social functions. We challenge many of the technical problems needed to make this project possible on the Godot game engine, including:
+We challenge many of the technical problems needed to make this project possible on the Godot game engine.
 
+    - Distribute custom avatars and worlds in a networked environment on the Godot game engine.
+    - Host via our own web server, as well as individual server hosting and social functions.
     - Spatialised audio and VOIP support
     - Native VRM support
     - Our own custom networking stack
