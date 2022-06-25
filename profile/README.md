@@ -3,7 +3,7 @@
 We challenge many of the technical problems needed to make this project possible on the Godot game engine.
 
     - Distribute custom avatars and worlds in a networked environment on the Godot game engine.
-    - Host via our own web server, as well as individual server hosting and social functions.
+    - Via a hosted web server, as well as individual hosting and social functions.
     - Spatialised audio and VOIP support
     - Native VRM support
     - Our own custom networking stack
