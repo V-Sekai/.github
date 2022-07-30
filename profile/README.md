@@ -1,16 +1,5 @@
 **[Interested in V-Sekai or #GodotVR development? Join the V-Sekai discord server!](https://discord.gg/7BQDHesck8)**
 
-We challenge many of the technical problems needed to make this project possible on the Godot game engine.
-
-    - Distribute custom avatars and worlds in a networked environment on the Godot game engine.
-    - Via a hosted web server, as well as individual hosting and social functions.
-    - Spatialised audio and VOIP support
-    - Native VRM support
-    - Our own custom networking stack
-    - A security-focused sandboxed scripting environment backed by WASM
-    - Customisable servers with their own individual game rules
-
 ## About V-Sekai
 
-V-Sekai is a small group of developers and VR enthusiasts who felt there was a need for an open-source ecosystem focused on VR. We believe social VR should be a truly community-driven experience. For this to be realised, we believe the entire software stack should be available, moddable, and tweakable from the source up, which is why a lot of our projects focus on the MIT-Licensed Godot Engine
-
+V-Sekai is a community of enthusiasts building a next-generation social and #gaming VR #platform powered by the Godot Engine. We felt there was a need for a remixable ecosystem focused on VR. We believe social VR should be a truly community-driven experience. For this to be realised, we believe the entire software stack should be available, moddable, and tweakable from the source up, which is why a lot of our projects focus on the MIT-Licensed Godot Engine.
