@@ -4,6 +4,8 @@
 
 ## Explain to me what is V-Sekai?
 
+Sekai is Japanese for world. 
+
 It is a virtual reality platform that is free and open source, meaning that anyone can use it to make their own games or social experiences.
 
 ## What are the unique aspects of V-Sekai?
