@@ -9,7 +9,7 @@ V-Sekai is a community-run, self-hostable virtual reality platform. It is being 
 
 ### Learn more
 
-Learn to develop V-Sekai with https://v-sekai.github.io/.
+We documented some parts of V-Sekai at https://v-sekai.github.io/.
 
 ## What does Sekai mean?
 
