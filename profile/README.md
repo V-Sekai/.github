@@ -14,7 +14,7 @@ It is a virtual reality platform that is free and open source, meaning that anyo
 2. It is built with the Vulkan graphics API and the OpenXR API.
 3. It is designed for use with VR avatars.
 
-###  Who are the target audiences of V-Sekai?
+###  Who uses V-Sekai?
 
 1. VR enthusiasts who want to create and share their own VR content.
 2. Developers who want to use the Godot Engine to create VR content.
