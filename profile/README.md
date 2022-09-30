@@ -2,7 +2,7 @@
 
 **[Interested in V-Sekai or #GodotVR development? Join the V-Sekai discord server!](https://discord.gg/7BQDHesck8)**
 
-## Explain what is V-Sekai?
+## What is V-Sekai?
 
 Sekai is Japanese for world. 
 
