@@ -26,4 +26,4 @@ Community-driven and open source.
 
 ### Learn more about developing V-Sekai
 
-Our developer documentation site is at https://v-sekai.github.io/.
+Learn to develop V-Sekai with https://v-sekai.github.io/.
