@@ -2,4 +2,4 @@ V-Sekai is creating a free, open source virtual reality platform. Our goal is to
 
 We'd be thrilled if you join the V-Sekai team on our [V-Sekai Discord server](https://discord.gg/7BQDHesck8)!
 
-Our comprehensive manuals can be found at [https://v-sekai.github.io/manuals](https://v-sekai.github.io/manuals).
+Our manuals can be found at [https://v-sekai.github.io/manuals](https://v-sekai.github.io/manuals).
