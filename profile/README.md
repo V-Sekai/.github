@@ -1,4 +1,4 @@
-V-Sekai is creating a free, open source virtual reality platform. Our goal is to make it user-friendly and cater to the needs of the VR community. 😊
+V-Sekai caters to the needs of the open source VR community. We're trying to make a user-friendly and free virtual reality platform.
 
 We'd be thrilled if you join the V-Sekai team on our [Discord server](https://discord.gg/7BQDHesck8)!
 
