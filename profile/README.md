@@ -13,5 +13,10 @@ graph TD
     B -->|Yes| C[Join Discord]
     C --> D[Test Latest Builds]
     D --> E[Submit Feedback]
-    B -->|No| F[End]
+    E --> F{Want to play the latest build?}
+    F -->|Yes| G[Visit CI Server]
+    G --> H[Download Artifacts]
+    H --> I[Play Latest Build]
+    F -->|No| J[End]
+    B -->|No| K[End]
 ```
