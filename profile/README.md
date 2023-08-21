@@ -10,16 +10,11 @@ Join us at V-Sekai, an open-source VR community dedicated to creating a user-fri
 ```mermaid
 graph TD
     A[Start] --> J{Want to play the latest build?}
-    J -->|Yes| M[Play Latest Build]
-    M --> K[Visit CI Server]
-    K --> L[Download Artifacts]
+    J -->|Yes| M[Play Latest Build<br/>- Visit CI Server<br/>- Download Artifacts]
     J -->|No| B{Are you a creator?}
-    B -->|Yes| C[Upload Avatars]
-    C --> D[Upload Worlds]
-    D --> E[Work on V-Sekai]
-    E --> F{Want to get involved?}
-    F -->|Yes| H[Test Latest Builds]
-    H --> I[Submit Feedback]
+    B -->|Yes| C[Upload Avatars<br/>- Upload Worlds<br/>- Work on V-Sekai]
+    C --> F{Want to get involved?}
+    F -->|Yes| H[Test Latest Builds<br/>- Submit Feedback]
     F -->|No| Y[End]
     B -->|No| Y[End]
 ```
